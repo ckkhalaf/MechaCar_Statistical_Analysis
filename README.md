@@ -26,10 +26,14 @@ The above linear regression model depicts our response variable is mpg and our p
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The current manufacturing data does meet this design specification for all manufacturing lots in total and each lot individually with the exception of Lot 3 where it exceeds the threshold. 
 
 ## T-Tests on Suspension Coils
+
 ![Image of All T-Tests](resources/ttest_all_lots.png)
-![Image of T-Test 1](resources/ttest_lot1)
-![Image of T-Test 2](resources/ttest_lot2)
-![Image of T-Test 3](resources/ttest_lots3)
+
+![Image of T-Test 1](resources/ttest_lot1.png)
+
+![Image of T-Test 2](resources/ttest_lot2.png)
+
+![Image of T-Test 3](resources/ttest_lots3.png)
 
 then briefly summarize your interpretation and findings for the t-test results.
 
