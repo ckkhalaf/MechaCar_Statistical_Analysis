@@ -36,15 +36,9 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![Image of T-Test 3](resources/ttest_lot3.png)
 
-then briefly summarize your interpretation and findings for the t-test results.
+To briefly summarize, the mean of all the lots is less than 1500, so the hypothesis is true.
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-What metric or metrics are you going to test?
+This statistical study analyzed whether or not AutosRUs’ newest prototype, the MechaCar, competes against other similar products. MechaCar is suffering from production troubles that are blocking the manufacturing team’s progress. The null hypothesis would be that consumers would prefer to purchase a vehicle based on looks instead of performance. An alternate hypothesis can look at do consumers thoroughly research before purchasing a vehicle. The lm() function and t-test would help test the null and alternate hypotheses. 
 
-What is the null hypothesis or alternative hypothesis?
-
-What statistical test would you use to test the hypothesis? And why?
-
-What data is needed to run the statistical test?
