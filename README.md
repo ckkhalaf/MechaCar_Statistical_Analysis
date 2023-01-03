@@ -13,19 +13,17 @@ The purpose of this analysis is to help a data analytics team do the following:
 
 ![Image of Linear Regression](images/linear_reg.png)
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+The above linear regression model depicts our response variable is mpg and our predictable variables are vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD. Based on the data, the vehicle length and ground clearance are the main variables contributing to the prototype's mpg performance. The slope of the linear model is not zero because the p-value of 5.35e-11. The r-squared and p-value determines that this model does predict the mpg of MechaCar prototypes effectively.
 
-Is the slope of the linear model considered to be zero? Why or why not?
-
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
-Part 2: Create Visualizations for the Trip Analysis
 
 ## Summary Statistics on Suspension Coils
 
- write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+![Image of Total Summary](images/total_summary.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+![Image of Lot Summary](images/lot_summary.png)
+
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The current manufacturing data does meet this design specification for all manufacturing lots in total and each lot individually with the exception of Lot 3 where it exceeds the threshold. 
 
 ## T-Tests on Suspension Coils
 
