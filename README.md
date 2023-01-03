@@ -1,5 +1,6 @@
 # MechaCar_Statistical_Analysis
-Data Bootcamp Week 16- R
+
+Data Bootcamp Week 16- R and RStudio
 
 ## Overview of Analysis
 The purpose of this analysis is to help a data analytics team do the following: 
