@@ -33,7 +33,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![Image of T-Test 2](resources/ttest_lot2.png)
 
-![Image of T-Test 3](resources/ttest_lots3.png)
+![Image of T-Test 3](resources/ttest_lot3.png)
 
 then briefly summarize your interpretation and findings for the t-test results.
 
